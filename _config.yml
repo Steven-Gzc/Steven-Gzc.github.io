@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "STEVEN GONG"
 title_separator          : "-"
-name                     : &name "Zhicheng(Steven) Gong"
+name                     : &name "Zhicheng Gong"
 description              : &description "personal description"
 url                      : https://Steven-Gzc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Steven Gong"
-  pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student at University of Toronto, specializing in Physics and Astrophysics."
-  location         : "Toronto / Shenzhen"
+  pronouns         : "he/him"  
+  bio              : "Physics student at University of Toronto"
+  location         : "Toronto, CA / Shenzhen, CN"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "steven_gzc@outlook.com" 
+  email            : "zc.gong@utoronto.ca" 
 
   # Academic websites
   academia         : # URL

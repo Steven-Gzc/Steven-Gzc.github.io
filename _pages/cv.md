@@ -11,36 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Astrophysics, University of Toronto, 2024 - 2028 (expected)
-* Shenzhen College of International Education, 2022 - 2024
-* Shenzhen HongLing Senior High School, 2020 - 2022
+* 2024 - 2028 (expected) **H.B.Sc. in Physics and Astrophysics**, _University of Toronto_, Canada.
+* 2022 - 2024, _Shenzhen College of International Education_, China
+* 2020 - 2022, Shenzhen HongLing Senior High School
 
-
-Award
+Awards
 ======
-* CPhO
-* BPho
-* USACO
+* 2022， Provincial **Third Prize** in _Chinese Physics Olympiad_
+* 2023, **Global Silver** in Round 2, **Top Gold** in Round 1 of _British Physics Olympiad(BPhO)_
+* 2023, Full Mark in Bronze Group of _USA Computing Olympiad_
 
-Work experience
+Work experience & Leadership
 ======
 * Summer 2024: High School Physics and Math Tutor
   * Astral Academy
   * Tutor for IGCSE Physics, IGCSE Math and AMC10
 
-* 2020 - 2022: President for Outreach at Students' Union
+* 2020 - 2022: President Outreach at Students' Union
   * Hongling Senior High
-  * Duties included: Financing and organizing events like charity bazaar and singing competition
+  * Duties included: leading a team of 13, financing and organizing events like charity bazaar and singing competition
 
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Tools: LaTeX, Git, Docker
+* Languages: Python, C++
 
 <!-- Publications
 ======
