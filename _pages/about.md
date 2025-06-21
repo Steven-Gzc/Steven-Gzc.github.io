@@ -11,6 +11,6 @@ redirect_from:
 
 :wave: Hi, I'm Steven
 ======
-Welcome to my website! I am doing my undergraduate at University of Toronto, Scarborough, specializing in Physics and Astrophysics. I have a broad interest in the following areas: Computer Science, Quantum Physics, Classical Mechanics, etc.
+Welcome to my website! I am currently pursuing my undergraduate studies at the University of Toronto, Scarborough, specializing in Physics and Astrophysics. I have a broad interest in a variety of areas: Computer Science (Algorithm), Quantum Physics, Classical Mechanics, and others.
 
-You can check out my [resume](cv "Resume/CV") or [Projects](portfolio "Under construction") (Under Construction).
+Check out my [resume](cv "Resume/CV") or [Projects](portfolio "Under construction") (Under Construction).

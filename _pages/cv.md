@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * 2024 - 2028 (expected) **H.B.Sc. in Physics and Astrophysics**, _University of Toronto_, Canada.
-  * A+ in MATA22 Linear Algebra I (91%),  CSCA67 Discrete Maths (90%), MATA31 Calculus I for Maths (97%)
+  * A+ in MATA22 Linear Algebra I (91%),  CSCA67 Discrete Maths (90%) and MATA31 Calculus I for Maths (97%)
 * 2022 - 2024, _Shenzhen College of International Education_, China
 * 2020 - 2022, _Shenzhen HongLing Senior High School_
 
 Awards
 ======
-* 2022， Provincial **Third Prize** in _Chinese Physics Olympiad_
+* 2022, Provincial **Third Prize** in _Chinese Physics Olympiad (CPhO)_
 * 2023, **Global Silver** in Round 2, **Top Gold** in Round 1 of _British Physics Olympiad (BPhO)_
 * 2023, Full Mark in Bronze Group of _USA Computing Olympiad (USACO)_
 
