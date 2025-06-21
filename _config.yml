@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "ZHICHENG GONG"
+title                    : "STEVEN GONG"
 title_separator          : "-"
-name                     : &name "Steven Gong"
+name                     : &name "Zhicheng(Steven) Gong"
 description              : &description "personal description"
 url                      : https://Steven-Gzc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
