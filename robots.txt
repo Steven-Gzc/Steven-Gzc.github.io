@@ -12,7 +12,10 @@ User-agent: GPTBot
 Disallow: /
 User-agent: PiplBot
 Disallow: /
+
 User-agent: *
 Disallow: /cv/
+User-agent: *
+Disallow: /portfolio/
 
 Sitemap: https://steven-gzc.github.io/sitemap.xml
