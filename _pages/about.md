@@ -13,4 +13,4 @@ redirect_from:
 ======
 Welcome to my website! I am currently pursuing my undergraduate studies at the University of Toronto, Scarborough, specializing in Physics and Astrophysics. I have a broad interest in a variety of areas: Computer Science (Algorithm), Quantum Physics, Classical Mechanics, and others.
 
-Check out my [resume](cv "Resume/CV") or [Projects](portfolio "Under construction") (Under Construction).
+Check out my [resume](cv "Resume/CV") or [projects](portfolio "Under Construction") (Under Construction).
